@@ -1,5 +1,4 @@
-fruits = ["apple", "banana", "mango"]
-
-for fruit in fruits:
-    if (fruit[0] == 'a'):
-        print
+sum = 0
+for i in range(1,20):
+    sum+=i
+print('Total sum of :',sum)    
