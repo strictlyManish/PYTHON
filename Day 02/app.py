@@ -25,8 +25,9 @@ if(diameter != str):
     radius = diameter / 2
     print('---------')
     print('Diameter is : ',diameter)
-
-    print('Area of circle : ',math.pi*(radius*radius))
+    area = math.pi*(radius*radius)
+   
+    print('Area of circle : ',round(area,2),'cm')
     
     print('---------')
 else:
