@@ -19,19 +19,19 @@
 
 
 
-# Smart temprature convertor 
+#Smart temprature convertor 
 
-# temprature = int(input('Enter current temprature in celcious : '))
+temprature = int(input('Enter current temprature in celcious : '))
 
-# fahrenheit = (temprature * 9/5) + 32
-# kelvin = temprature + 273.15
+fahrenheit = (temprature * 9/5) + 32
+kelvin = temprature + 273.15
 
-# print('------------------')
-# print('Current temprature in celcious : ',temprature)
-# print('Fahrenheit : ',fahrenheit)
-# print('Kelvin : ',kelvin)
+print('------------------')
+print('Current temprature in celcious : ',temprature)
+print('Fahrenheit : ',fahrenheit)
+print('Kelvin : ',kelvin)
 
-# print('------------------')
+print('------------------')
 
 
 # Bill Split Calculator 
