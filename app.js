@@ -9,4 +9,8 @@ const f = (n) =>{
 };
 
 
-console.log(f(5))
+// console.log(f(5))
+
+let a = 5;
+
+console.log(parseFloat(a))

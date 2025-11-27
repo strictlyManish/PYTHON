@@ -34,9 +34,6 @@ def greet_user(name):
 # Write a function to return the largest of 3 numbers.
 
 
-
-
-
 def largestOf3():
     for i
   
